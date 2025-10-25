@@ -5,6 +5,8 @@ This Repository Contains Web developed Projects in free time or during class bre
 
 1. This is anāyāsena when you search something you :
 
+
+https://gregarious-marigold-a92e4c.netlify.app/
 Open your browser
 search it
 your browser redirects to the webpage or site you wanrt
