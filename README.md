@@ -6,7 +6,7 @@ This Repository Contains Web developed Projects in free time or during class bre
 1. This is anāyāsena when you search something you :
 
 
-[https://gregarious-marigold-a92e4c.netlify.app/](https://tinyurl.com/Effortless-Sujay)
+(https://tinyurl.com/Effortless-Sujay)
 
 
 
